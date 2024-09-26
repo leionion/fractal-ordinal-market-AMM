@@ -7,7 +7,7 @@ This is an Automatic market maker for Ordinal Marketplace built on the Fractal B
 - **Functionality:** Listing, purchasing, and managing ordinals based on ordinal theory
 - **Documentation:** Swagger integrated for API documentation
 
-## Setup and Configuration
+## Setup and Configuration 
 
 ### Prerequisites
 
