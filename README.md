@@ -9,7 +9,7 @@ This is an Automatic market maker for Ordinal Marketplace built on the Fractal B
 
 ## Setup and Configuration 
 
-### Prerequisites
+### Prerequisites 
 
 - Ensure Node.js is installed.
 - Create an `.env` file using `.env.example` as a reference.
