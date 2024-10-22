@@ -13,7 +13,7 @@ import { TESTNET } from "./config/config";
 import { Mutex } from "async-mutex";
 
 // Swagger UI implementation
-import swaggerUi from "swagger-ui-express";
+import swaggerUi from "swagger-ui-express"; 
 import YAML from "yamljs";
 
 // API endpoint Routers
